@@ -645,6 +645,7 @@ const SortingChallenge = ({ challenge, onAnswer }) => {
       </Button>
     </div>
   );
+);
 };
 
 export default ChallengeOverlay;
