@@ -1,0 +1,18 @@
+{
+  "totalFactsDiscovered": 0,
+  "locationsVisited": [],
+  "challengesCompleted": [],
+  "currentLocation": "ancient-egypt",
+  "totalBadgesEarned": 0,
+  "favoriteEra": null,
+  "timeSpentExploring": 0,
+  "achievements": {
+    "firstDiscovery": false,
+    "firstChallenge": false,
+    "allEgyptFacts": false,
+    "allRomeFacts": false,
+    "allDinoFacts": false,
+    "speedExplorer": false,
+    "thoroughExplorer": false
+  }
+}

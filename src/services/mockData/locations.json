@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ancient-egypt",
+    "name": "Ancient Egypt",
+    "era": "3100 BCE - 30 BCE",
+    "unlocked": true,
+    "progress": 0,
+    "totalFacts": 8,
+    "discoveredFacts": [],
+    "description": "Journey to the land of pyramids and pharaohs",
+    "backgroundImage": "🏜️",
+    "primaryColor": "#F59E0B",
+    "characters": ["pharaoh", "scribe", "cat"],
+    "objects": ["pyramid", "scroll", "treasure", "sarcophagus", "sphinx"]
+  },
+  {
+    "id": "roman-empire",
+    "name": "Roman Empire",
+    "era": "27 BCE - 476 CE",
+    "unlocked": true,
+    "progress": 0,
+    "totalFacts": 8,
+    "discoveredFacts": [],
+    "description": "Explore the mighty Roman civilization",
+    "backgroundImage": "🏛️",
+    "primaryColor": "#DC2626",
+    "characters": ["gladiator", "senator", "soldier"],
+    "objects": ["colosseum", "shield", "coin", "statue", "chariot"]
+  },
+  {
+    "id": "dinosaur-age",
+    "name": "Age of Dinosaurs",
+    "era": "252 - 66 million years ago",
+    "unlocked": true,
+    "progress": 0,
+    "totalFacts": 8,
+    "discoveredFacts": [],
+    "description": "Meet the incredible dinosaurs of prehistoric Earth",
+    "backgroundImage": "🦕",
+    "primaryColor": "#059669",
+    "characters": ["trex", "triceratops", "pterodactyl"],
+    "objects": ["fossil", "volcano", "fern", "egg", "footprint"]
+  },
+  {
+    "id": "space-exploration",
+    "name": "Space Age",
+    "era": "1957 - Present",
+    "unlocked": false,
+    "progress": 0,
+    "totalFacts": 8,
+    "discoveredFacts": [],
+    "description": "Blast off to explore the cosmos",
+    "backgroundImage": "🚀",
+    "primaryColor": "#3B82F6",
+    "characters": ["astronaut", "alien", "robot"],
+    "objects": ["rocket", "satellite", "planet", "star", "spacesuit"]
+  },
+  {
+    "id": "arctic-expedition",
+    "name": "Arctic Adventure",
+    "era": "Ice Age & Modern",
+    "unlocked": false,
+    "progress": 0,
+    "totalFacts": 8,
+    "discoveredFacts": [],
+    "description": "Discover the frozen wilderness",
+    "backgroundImage": "🐧",
+    "primaryColor": "#0EA5E9",
+    "characters": ["penguin", "explorer", "eskimo"],
+    "objects": ["igloo", "iceberg", "sled", "fish", "aurora"]
+  }
+]

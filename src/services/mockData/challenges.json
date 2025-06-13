@@ -1,0 +1,93 @@
+[
+  {
+    "id": "egypt-find-treasure",
+    "locationId": "ancient-egypt",
+    "type": "find-item",
+    "completed": false,
+    "instructions": "Help the pharaoh find his golden treasure chest hidden in the pyramid!",
+    "targetObject": "treasure",
+    "reward": "Golden Scarab Badge"
+  },
+  {
+    "id": "egypt-match-hieroglyphs",
+    "locationId": "ancient-egypt",
+    "type": "matching",
+    "completed": false,
+    "instructions": "Match the hieroglyph symbols with their meanings to help the scribe!",
+    "pairs": [
+      {"symbol": "𓀀", "meaning": "Person"},
+      {"symbol": "𓃠", "meaning": "Cat"},
+      {"symbol": "𓊪", "meaning": "Water"}
+    ],
+    "reward": "Scribe's Wisdom Badge"
+  },
+  {
+    "id": "egypt-build-pyramid",
+    "locationId": "ancient-egypt",
+    "type": "drag-drop",
+    "completed": false,
+    "instructions": "Help the workers stack the pyramid blocks in the right order - biggest at the bottom!",
+    "blocks": ["large", "medium", "small", "tiny"],
+    "reward": "Master Builder Badge"
+  },
+  {
+    "id": "rome-gladiator-gear",
+    "locationId": "roman-empire",
+    "type": "find-item",
+    "completed": false,
+    "instructions": "Find the gladiator's shield and helmet before the big fight!",
+    "targetObjects": ["shield", "helmet"],
+    "reward": "Gladiator's Honor Badge"
+  },
+  {
+    "id": "rome-coin-counting",
+    "locationId": "roman-empire",
+    "type": "counting",
+    "completed": false,
+    "instructions": "Count the Roman coins in the senator's purse to help him pay for supplies!",
+    "coins": 12,
+    "reward": "Merchant's Trust Badge"
+  },
+  {
+    "id": "rome-chariot-race",
+    "locationId": "roman-empire",
+    "type": "sequence",
+    "completed": false,
+    "instructions": "Put the chariot race steps in order: 1) Mount chariot 2) Race begins 3) Cross finish line!",
+    "sequence": ["mount", "race", "finish"],
+    "reward": "Victory Laurel Badge"
+  },
+  {
+    "id": "dino-fossil-dig",
+    "locationId": "dinosaur-age",
+    "type": "find-item",
+    "completed": false,
+    "instructions": "Dig carefully to uncover all the dinosaur bone fossils buried in the ground!",
+    "targetObject": "fossil",
+    "quantity": 3,
+    "reward": "Paleontologist Badge"
+  },
+  {
+    "id": "dino-size-sort",
+    "locationId": "dinosaur-age",
+    "type": "sorting",
+    "completed": false,
+    "instructions": "Sort these dinosaurs from smallest to largest: Compsognathus, Triceratops, T-Rex!",
+    "items": ["Compsognathus", "Triceratops", "T-Rex"],
+    "correctOrder": ["Compsognathus", "Triceratops", "T-Rex"],
+    "reward": "Dino Expert Badge"
+  },
+  {
+    "id": "dino-egg-match",
+    "locationId": "dinosaur-age",
+    "type": "matching",
+    "completed": false,
+    "instructions": "Match each baby dinosaur with its egg by size and pattern!",
+    "pairs": [
+      {"egg": "spotted-large", "baby": "triceratops"},
+      {"egg": "smooth-small", "baby": "compsognathus"},
+      {"egg": "ridged-huge", "baby": "trex"}
+    ],
+    "reward": "Nest Guardian Badge"
+  }
+]

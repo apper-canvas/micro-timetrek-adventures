@@ -1,0 +1,218 @@
+[
+  {
+    "id": "egypt-pyramid-1",
+    "locationId": "ancient-egypt",
+    "content": "The Great Pyramid of Giza was built over 4,500 years ago and was the tallest building in the world for almost 4,000 years!",
+    "audioUrl": "/audio/egypt-pyramid-1.mp3",
+    "discovered": false,
+    "category": "Architecture",
+    "objectId": "pyramid"
+  },
+  {
+    "id": "egypt-pharaoh-1",
+    "locationId": "ancient-egypt",
+    "content": "Pharaohs were considered gods on Earth. They wore special crowns and had their names written in hieroglyphs!",
+    "audioUrl": "/audio/egypt-pharaoh-1.mp3",
+    "discovered": false,
+    "category": "People",
+    "objectId": "pharaoh"
+  },
+  {
+    "id": "egypt-cat-1",
+    "locationId": "ancient-egypt",
+    "content": "Cats were sacred animals in Ancient Egypt. They were so important that harming a cat was against the law!",
+    "audioUrl": "/audio/egypt-cat-1.mp3",
+    "discovered": false,
+    "category": "Animals",
+    "objectId": "cat"
+  },
+  {
+    "id": "egypt-scroll-1",
+    "locationId": "ancient-egypt",
+    "content": "Ancient Egyptians wrote on papyrus scrolls made from river plants. These were the first books!",
+    "audioUrl": "/audio/egypt-scroll-1.mp3",
+    "discovered": false,
+    "category": "Technology",
+    "objectId": "scroll"
+  },
+  {
+    "id": "egypt-treasure-1",
+    "locationId": "ancient-egypt",
+    "content": "King Tutankhamun's tomb contained over 5,000 precious objects, including a golden mask!",
+    "audioUrl": "/audio/egypt-treasure-1.mp3",
+    "discovered": false,
+    "category": "Treasures",
+    "objectId": "treasure"
+  },
+  {
+    "id": "egypt-sarcophagus-1",
+    "locationId": "ancient-egypt",
+    "content": "Mummies were wrapped in linen bandages and placed in decorated sarcophagi to protect them in the afterlife.",
+    "audioUrl": "/audio/egypt-sarcophagus-1.mp3",
+    "discovered": false,
+    "category": "Death & Afterlife",
+    "objectId": "sarcophagus"
+  },
+  {
+    "id": "egypt-sphinx-1",
+    "locationId": "ancient-egypt",
+    "content": "The Great Sphinx has the body of a lion and the head of a human. It guards the pyramids of Giza!",
+    "audioUrl": "/audio/egypt-sphinx-1.mp3",
+    "discovered": false,
+    "category": "Architecture",
+    "objectId": "sphinx"
+  },
+  {
+    "id": "egypt-scribe-1",
+    "locationId": "ancient-egypt",
+    "content": "Scribes were very important people who could read and write hieroglyphs. They kept records of everything!",
+    "audioUrl": "/audio/egypt-scribe-1.mp3",
+    "discovered": false,
+    "category": "People",
+    "objectId": "scribe"
+  },
+  {
+    "id": "rome-colosseum-1",
+    "locationId": "roman-empire",
+    "content": "The Colosseum could hold 50,000 people! It had elevators and trapdoors for spectacular gladiator shows.",
+    "audioUrl": "/audio/rome-colosseum-1.mp3",
+    "discovered": false,
+    "category": "Architecture",
+    "objectId": "colosseum"
+  },
+  {
+    "id": "rome-gladiator-1",
+    "locationId": "roman-empire",
+    "content": "Gladiators were fighters who battled in the arena. Many were heroes to the Roman people!",
+    "audioUrl": "/audio/rome-gladiator-1.mp3",
+    "discovered": false,
+    "category": "People",
+    "objectId": "gladiator"
+  },
+  {
+    "id": "rome-soldier-1",
+    "locationId": "roman-empire",
+    "content": "Roman soldiers marched in formation and built roads wherever they went. All roads led to Rome!",
+    "audioUrl": "/audio/rome-soldier-1.mp3",
+    "discovered": false,
+    "category": "People",
+    "objectId": "soldier"
+  },
+  {
+    "id": "rome-shield-1",
+    "locationId": "roman-empire",
+    "content": "Roman shields were rectangular and could be locked together to form a 'tortoise' formation for protection.",
+    "audioUrl": "/audio/rome-shield-1.mp3",
+    "discovered": false,
+    "category": "Technology",
+    "objectId": "shield"
+  },
+  {
+    "id": "rome-coin-1",
+    "locationId": "roman-empire",
+    "content": "Roman coins showed the faces of emperors and were used all across the empire for trade.",
+    "audioUrl": "/audio/rome-coin-1.mp3",
+    "discovered": false,
+    "category": "Economy",
+    "objectId": "coin"
+  },
+  {
+    "id": "rome-statue-1",
+    "locationId": "roman-empire",
+    "content": "Romans built beautiful marble statues of their gods, emperors, and heroes that still exist today!",
+    "audioUrl": "/audio/rome-statue-1.mp3",
+    "discovered": false,
+    "category": "Art",
+    "objectId": "statue"
+  },
+  {
+    "id": "rome-chariot-1",
+    "locationId": "roman-empire",
+    "content": "Chariot races were the most popular sport in Rome. Drivers raced around the Circus Maximus track!",
+    "audioUrl": "/audio/rome-chariot-1.mp3",
+    "discovered": false,
+    "category": "Sports",
+    "objectId": "chariot"
+  },
+  {
+    "id": "rome-senator-1",
+    "locationId": "roman-empire",
+    "content": "Senators wore white togas with purple stripes and made important decisions for the Roman Empire.",
+    "audioUrl": "/audio/rome-senator-1.mp3",
+    "discovered": false,
+    "category": "People",
+    "objectId": "senator"
+  },
+  {
+    "id": "dino-trex-1",
+    "locationId": "dinosaur-age",
+    "content": "T-Rex had teeth as big as bananas! It was one of the largest land predators that ever lived.",
+    "audioUrl": "/audio/dino-trex-1.mp3",
+    "discovered": false,
+    "category": "Predators",
+    "objectId": "trex"
+  },
+  {
+    "id": "dino-triceratops-1",
+    "locationId": "dinosaur-age",
+    "content": "Triceratops had three horns and a bony frill to protect itself from predators like T-Rex!",
+    "audioUrl": "/audio/dino-triceratops-1.mp3",
+    "discovered": false,
+    "category": "Herbivores",
+    "objectId": "triceratops"
+  },
+  {
+    "id": "dino-pterodactyl-1",
+    "locationId": "dinosaur-age",
+    "content": "Pterodactyls weren't actually dinosaurs - they were flying reptiles that lived alongside dinosaurs!",
+    "audioUrl": "/audio/dino-pterodactyl-1.mp3",
+    "discovered": false,
+    "category": "Flying Reptiles",
+    "objectId": "pterodactyl"
+  },
+  {
+    "id": "dino-fossil-1",
+    "locationId": "dinosaur-age",
+    "content": "Fossils are like nature's photographs - they show us what dinosaurs looked like millions of years ago!",
+    "audioUrl": "/audio/dino-fossil-1.mp3",
+    "discovered": false,
+    "category": "Science",
+    "objectId": "fossil"
+  },
+  {
+    "id": "dino-volcano-1",
+    "locationId": "dinosaur-age",
+    "content": "Volcanoes were very active during dinosaur times. Some scientists think they helped end the age of dinosaurs.",
+    "audioUrl": "/audio/dino-volcano-1.mp3",
+    "discovered": false,
+    "category": "Environment",
+    "objectId": "volcano"
+  },
+  {
+    "id": "dino-fern-1",
+    "locationId": "dinosaur-age",
+    "content": "Giant ferns covered the Earth during dinosaur times. Plant-eating dinosaurs munched on them like salad!",
+    "audioUrl": "/audio/dino-fern-1.mp3",
+    "discovered": false,
+    "category": "Plants",
+    "objectId": "fern"
+  },
+  {
+    "id": "dino-egg-1",
+    "locationId": "dinosaur-age",
+    "content": "Dinosaur eggs came in many sizes - some were as small as marbles, others as big as footballs!",
+    "audioUrl": "/audio/dino-egg-1.mp3",
+    "discovered": false,
+    "category": "Life Cycle",
+    "objectId": "egg"
+  },
+  {
+    "id": "dino-footprint-1",
+    "locationId": "dinosaur-age",
+    "content": "Dinosaur footprints tell us how fast they walked, if they traveled in groups, and how big they were!",
+    "audioUrl": "/audio/dino-footprint-1.mp3",
+    "discovered": false,
+    "category": "Science",
+    "objectId": "footprint"
+  }
+]
