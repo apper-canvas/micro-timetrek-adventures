@@ -217,8 +217,12 @@ const ChallengeOverlay = ({ challenge, onComplete, onClose }) => {
 const FindItemChallenge = ({ challenge, onAnswer }) => {
   const [selectedItem, setSelectedItem] = useState(null);
   
-  // Mock items for the scene
-  const sceneItems = ['treasure', 'scroll', 'vase', 'gem', 'coin'];
+// Mock items for the scene - includes medieval and prehistoric items
+  const sceneItems = challenge.locationId === 'medieval-times' 
+    ? ['sword', 'shield', 'crown', 'scroll', 'gem']
+    : challenge.locationId === 'dinosaur-age'
+    ? ['fossil', 'bone', 'rock', 'leaf', 'egg']
+    : ['treasure', 'scroll', 'vase', 'gem', 'coin'];
   
   return (
     <div>
@@ -244,7 +248,16 @@ const FindItemChallenge = ({ challenge, onAnswer }) => {
               {item === 'treasure' ? '💰' : 
                item === 'scroll' ? '📜' :
                item === 'vase' ? '🏺' :
-               item === 'gem' ? '💎' : '🪙'}
+               item === 'gem' ? '💎' : 
+               item === 'coin' ? '🪙' :
+               item === 'sword' ? '⚔️' :
+               item === 'shield' ? '🛡️' :
+               item === 'crown' ? '👑' :
+               item === 'fossil' ? '🦴' :
+               item === 'bone' ? '🦴' :
+               item === 'rock' ? '🪨' :
+               item === 'leaf' ? '🍃' :
+               item === 'egg' ? '🥚' : '🔍'}
             </div>
             <span className="text-sm font-sans capitalize">{item}</span>
           </motion.button>
@@ -261,7 +274,6 @@ const FindItemChallenge = ({ challenge, onAnswer }) => {
       </Button>
     </div>
   );
-};
 
 const MatchingChallenge = ({ challenge, onAnswer }) => {
   const [matches, setMatches] = useState({});

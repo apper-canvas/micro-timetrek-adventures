@@ -58,11 +58,38 @@
     "reward": "Victory Laurel Badge"
   },
   {
+    "id": "medieval-knight-sword",
+    "locationId": "medieval-times",
+    "type": "find-item",
+    "completed": false,
+    "instructions": "Help the brave knight find his enchanted sword before the dragon battle!",
+    "targetObject": "sword",
+    "reward": "Knight's Honor Badge"
+  },
+  {
+    "id": "medieval-castle-defense",
+    "locationId": "medieval-times",
+    "type": "sequence",
+    "completed": false,
+    "instructions": "Help defend the castle! Put these defense steps in order: 1) Raise drawbridge 2) Ready archers 3) Light signal fires!",
+    "sequence": ["drawbridge", "archers", "signals"],
+    "reward": "Castle Guardian Badge"
+  },
+  {
+    "id": "medieval-round-table",
+    "locationId": "medieval-times",
+    "type": "counting",
+    "completed": false,
+    "instructions": "Count how many noble knights are seated at King Arthur's round table for the feast!",
+    "coins": 12,
+    "reward": "Round Table Honor Badge"
+  },
+  {
     "id": "dino-fossil-dig",
     "locationId": "dinosaur-age",
     "type": "find-item",
     "completed": false,
-    "instructions": "Dig carefully to uncover all the dinosaur bone fossils buried in the ground!",
+    "instructions": "Become a paleontologist! Carefully identify and dig up the T-Rex fossil bones buried in the archaeological site!",
     "targetObject": "fossil",
     "quantity": 3,
     "reward": "Paleontologist Badge"

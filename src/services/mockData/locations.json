@@ -40,6 +40,20 @@
     "primaryColor": "#059669",
     "characters": ["trex", "triceratops", "pterodactyl"],
     "objects": ["fossil", "volcano", "fern", "egg", "footprint"]
+},
+  {
+    "id": "medieval-times",
+    "name": "Medieval Kingdom",
+    "era": "5th - 15th Century",
+    "unlocked": true,
+    "progress": 0,
+    "totalFacts": 8,
+    "discoveredFacts": [],
+    "description": "Journey to the age of knights, castles, and chivalry",
+    "backgroundImage": "🏰",
+    "primaryColor": "#7C3AED",
+    "characters": ["knight", "princess", "dragon"],
+    "objects": ["sword", "castle", "shield", "crown", "horse"]
   },
   {
     "id": "space-exploration",
