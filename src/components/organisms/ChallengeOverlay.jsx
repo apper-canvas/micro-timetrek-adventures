@@ -634,15 +634,13 @@ const SortingChallenge = ({ challenge, onAnswer }) => {
         </div>
       </div>
       
-      <Button
+<Button
         variant="primary"
         size="lg"
         disabled={sortedItems.length !== challenge.items.length}
         onClick={() => onAnswer(sortedItems)}
         className="w-full"
       >
-        Submit Order
->
         Submit Order
       </Button>
     </div>
