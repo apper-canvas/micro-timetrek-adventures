@@ -642,8 +642,10 @@ const SortingChallenge = ({ challenge, onAnswer }) => {
         className="w-full"
       >
         Submit Order
+>
+        Submit Order
       </Button>
-</div>
+    </div>
   );
 };
 
