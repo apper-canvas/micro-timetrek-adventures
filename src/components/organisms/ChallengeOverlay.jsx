@@ -648,5 +648,3 @@ const SortingChallenge = ({ challenge, onAnswer }) => {
 };
 
 export default ChallengeOverlay;
-
-export default ChallengeOverlay;
