@@ -632,9 +632,9 @@ const SortingChallenge = ({ challenge, onAnswer }) => {
             </motion.div>
           ))}
         </div>
-      </div>
+</div>
       
-<Button
+      <Button
         variant="primary"
         size="lg"
         disabled={sortedItems.length !== challenge.items.length}
